@@ -105,7 +105,7 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 310005-0	27/02/2020	Deltamas Temporary Office's Furniture 	-	310005-0 / Deltamas Temporary Office's Furniture 
 310007-0	19/03/2020	Filling Cabinet Modera MH-588	-	310007-0 / Filling Cabinet Modera MH-588
 310008-0	31/08/2020	Intermec Printer with Thermal Transfer	298C1630050	310008-0 / Intermec Printer with Thermal Transfer
-310009-0	31/08/2020	Canon Power Shot Digital Camera	8,78063E+11	310009-0 / Canon Power Shot Digital Camera
+310009-0	31/08/2020	Canon Power Shot Digital Camera	8,78E+11	310009-0 / Canon Power Shot Digital Camera
 310010-0	30/09/2020	Renz Binding Machine	-	310010-0 / Renz Binding Machine
 310011-0	30/09/2020	Renz Binding Machine	-	310011-0 / Renz Binding Machine
 310012-0	30/09/2020	Back & Leg Dynamometer	-	310012-0 / Back & Leg Dynamometer
@@ -750,8 +750,8 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 310653-0	31/07/2021	Rak Gudang Starting 4 susun (28)	-	310653-0 / Rak Gudang Starting 4 susun (28)
 310654-0	31/07/2021	Rak Gudang Starting 4 susun (29)	-	310654-0 / Rak Gudang Starting 4 susun (29)
 310655-0	31/07/2021	Rak Gudang Starting 4 susun (30)	-	310655-0 / Rak Gudang Starting 4 susun (30)
-310656-0	31/07/2021	Digital Camera Canon Power Shot (1)	2,28064E+11	310656-0 / Digital Camera Canon Power Shot (1)
-310657-0	31/07/2021	Digital Camera Canon Power Shot (2)	2,28064E+11	310657-0 / Digital Camera Canon Power Shot (2)
+310656-0	31/07/2021	Digital Camera Canon Power Shot (1)	2,28E+11	310656-0 / Digital Camera Canon Power Shot (1)
+310657-0	31/07/2021	Digital Camera Canon Power Shot (2)	2,28E+11	310657-0 / Digital Camera Canon Power Shot (2)
 310658-0	31/07/2021	Dining Hall Cabinet	-	310658-0 / Dining Hall Cabinet
 310659-0	31/07/2021	Dining Table VIP Type C (1)	-	310659-0 / Dining Table VIP Type C (1)
 310660-0	31/07/2021	Dining Table VIP Type C (2)	-	310660-0 / Dining Table VIP Type C (2)
@@ -915,7 +915,7 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 310818-0	31/08/2021	LG Kulkas 2 Pintu 	-	310818-0 / LG Kulkas 2 Pintu 
 310819-0	31/08/2021	Air Conditioner Portable 1 PK 	-	310819-0 / Air Conditioner Portable 1 PK 
 310820-0	31/08/2021	Medical Laryngoscope 	-	310820-0 / Medical Laryngoscope 
-310821-0	30/09/2021	Camera Canon Ixus 190 	2,11281E+13	310821-0 / Camera Canon Ixus 190 
+310821-0	30/09/2021	Camera Canon Ixus 190 	2,11E+13	310821-0 / Camera Canon Ixus 190 
 310822-0	30/09/2021	White Board 1,2 x 2,4 meter with Standing (1)	-	310822-0 / White Board 1,2 x 2,4 meter with Standing (1)
 310823-0	30/09/2021	White Board 1,2 x 2,4 meter with Standing (2)	-	310823-0 / White Board 1,2 x 2,4 meter with Standing (2)
 310824-0	30/09/2021	Work Table 1 Drawer (1)	-	310824-0 / Work Table 1 Drawer (1)
@@ -963,10 +963,10 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 310866-0	31/08/2021	Rack Gudang Starting (4 susun) (6)	-	310866-0 / Rack Gudang Starting (4 susun) (6)
 310867-0	31/08/2021	Rack Gudang Starting (4 susun) (7)	-	310867-0 / Rack Gudang Starting (4 susun) (7)
 310868-0	31/08/2021	Rack Gudang Starting (4 susun) (8)	-	310868-0 / Rack Gudang Starting (4 susun) (8)
-310869-0	31/08/2021	Digital Camera Canon Power Shot (1)	2,48064E+11	310869-0 / Digital Camera Canon Power Shot (1)
-310870-0	31/08/2021	Digital Camera Canon Power Shot (2)	2,48064E+11	310870-0 / Digital Camera Canon Power Shot (2)
-310871-0	31/08/2021	Digital Camera Canon Power Shot (3)	2,48064E+11	310871-0 / Digital Camera Canon Power Shot (3)
-310872-0	31/08/2021	Digital Camera Canon Power Shot (4)	2,48064E+11	310872-0 / Digital Camera Canon Power Shot (4)
+310869-0	31/08/2021	Digital Camera Canon Power Shot (1)	2,48E+11	310869-0 / Digital Camera Canon Power Shot (1)
+310870-0	31/08/2021	Digital Camera Canon Power Shot (2)	2,48E+11	310870-0 / Digital Camera Canon Power Shot (2)
+310871-0	31/08/2021	Digital Camera Canon Power Shot (3)	2,48E+11	310871-0 / Digital Camera Canon Power Shot (3)
+310872-0	31/08/2021	Digital Camera Canon Power Shot (4)	2,48E+11	310872-0 / Digital Camera Canon Power Shot (4)
 310873-0	31/08/2021	Stand F/ Granite 600x450x100MM	-	310873-0 / Stand F/ Granite 600x450x100MM
 310874-0	31/08/2021	Roller Cabinet Drawers Black Jet 	-	310874-0 / Roller Cabinet Drawers Black Jet 
 310875-0	31/08/2021	Canon Powershot SX620 HS (1)	-	310875-0 / Canon Powershot SX620 HS (1)
@@ -1016,8 +1016,8 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 310919-0	31/08/2021	Handy Talky Motorola CP1660UHF (18)	1335VH6159	310919-0 / Handy Talky Motorola CP1660UHF (18)
 310920-0	31/08/2021	Handy Talky Motorola CP1660UHF (19)	1335VH6044	310920-0 / Handy Talky Motorola CP1660UHF (19)
 310921-0	31/08/2021	Handy Talky Motorola CP1660UHF (20)	1335VH5297	310921-0 / Handy Talky Motorola CP1660UHF (20)
-310922-0	31/08/2021	Digital Camera Canon Power Shot (1)	1,18064E+11	310922-0 / Digital Camera Canon Power Shot (1)
-310923-0	31/08/2021	Digital Camera Canon Power Shot (2)	1,18064E+11	310923-0 / Digital Camera Canon Power Shot (2)
+310922-0	31/08/2021	Digital Camera Canon Power Shot (1)	1,18E+11	310922-0 / Digital Camera Canon Power Shot (1)
+310923-0	31/08/2021	Digital Camera Canon Power Shot (2)	1,18E+11	310923-0 / Digital Camera Canon Power Shot (2)
 310924-0	31/08/2021	Digital Camera Canon Power Shot (3)	18163000034	310924-0 / Digital Camera Canon Power Shot (3)
 310925-0	31/08/2021	Tool Drawer Roll Cab 26" (1)	B050005K	310925-0 / Tool Drawer Roll Cab 26" (1)
 310926-0	31/08/2021	Tool Drawer Roll Cab 26" (2)	B090391K	310926-0 / Tool Drawer Roll Cab 26" (2)
@@ -1922,9 +1922,9 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 311825-0	30/09/2021	Light Duty Basic 1200x500x2000mm (71)	-	311825-0 / Light Duty Basic 1200x500x2000mm (71)
 311826-0	30/09/2021	Light Duty Basic 1200x500x2000mm (72)	-	311826-0 / Light Duty Basic 1200x500x2000mm (72)
 311827-0	30/09/2021	Light Duty Basic 1200x500x2000mm (73)	-	311827-0 / Light Duty Basic 1200x500x2000mm (73)
-311828-0	30/09/2021	Handphone Samsung A32 (1)	3,52161E+14	311828-0 / Handphone Samsung A32 (1)
-311829-0	30/09/2021	Handphone Samsung A32 (2)	3,52161E+14	311829-0 / Handphone Samsung A32 (2)
-311830-0	30/09/2021	Handphone Samsung A32 (3)	3,52161E+14	311830-0 / Handphone Samsung A32 (3)
+311828-0	30/09/2021	Handphone Samsung A32 (1)	3,52E+14	311828-0 / Handphone Samsung A32 (1)
+311829-0	30/09/2021	Handphone Samsung A32 (2)	3,52E+14	311829-0 / Handphone Samsung A32 (2)
+311830-0	30/09/2021	Handphone Samsung A32 (3)	3,52E+14	311830-0 / Handphone Samsung A32 (3)
 311831-0	30/09/2021	Working Table 3000x1900x1000mm 	-	311831-0 / Working Table 3000x1900x1000mm 
 311832-0	30/09/2021	Nikon Coolpix W300 Orange (1)	76004006	311832-0 / Nikon Coolpix W300 Orange (1)
 311833-0	30/09/2021	Nikon Coolpix W300 Orange (2)	76003728	311833-0 / Nikon Coolpix W300 Orange (2)
@@ -5325,8 +5325,8 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 430054-0	31/01/2021	Ko-ken 1/2 5Q Impact Hex Bit Socket	-	430054-0 / Ko-ken 1/2 5Q Impact Hex Bit Socket
 430055-0	31/01/2021	Ko-ken 1/2 5Q Impact Hex Bit Socket	-	430055-0 / Ko-ken 1/2 5Q Impact Hex Bit Socket
 430056-0	31/01/2021	Ko-ken 1/2 5Q Impact Hex Bit Socket	-	430056-0 / Ko-ken 1/2 5Q Impact Hex Bit Socket
+430057-0	31/01/2021	Redbo Cutting Plasma Cut-40	1,19E+11	430057-0 / Redbo Cutting Plasma Cut-40
 430057-0	31/01/2021	Redbo Cutting Plasma Cut-40	1,1907E+11	430057-0 / Redbo Cutting Plasma Cut-40
-430057-0	31/01/2021	Redbo Cutting Plasma Cut-40	119070302334	430057-0 / Redbo Cutting Plasma Cut-40
 430058-0	31/01/2021	Redbo Cutting Plasma Cut-40	-	430058-0 / Redbo Cutting Plasma Cut-40
 430059-0	31/01/2021	Redbo Cutting Plasma Cut-40	-	430059-0 / Redbo Cutting Plasma Cut-40
 430060-0	31/01/2021	Redbo Cutting Plasma Cut-40	-	430060-0 / Redbo Cutting Plasma Cut-40
@@ -5351,7 +5351,7 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 430079-0	31/01/2021	Safety Gujodae Clotch	-	430079-0 / Safety Gujodae Clotch
 430080-0	31/01/2021	Haws Emergency Shower	-	430080-0 / Haws Emergency Shower
 430081-0	31/01/2021	Rothen Berger 63005 Portable Compact	56.050	430081-0 / Rothen Berger 63005 Portable Compact
-430081-0	31/01/2021	Rothen Berger 63005 Portable Compact	5.6050	430081-0 / Rothen Berger 63005 Portable Compact
+430081-0	31/01/2021	Rothen Berger 63005 Portable Compact	56.050	430081-0 / Rothen Berger 63005 Portable Compact
 430082-0	31/01/2021	Spanner Wrench Proto C474A	-	430082-0 / Spanner Wrench Proto C474A
 430083-0	31/01/2021	Spanner Wrench Proto C474A	-	430083-0 / Spanner Wrench Proto C474A
 430084-0	31/01/2021	Spanner Wrench Proto C474A	-	430084-0 / Spanner Wrench Proto C474A
@@ -5389,15 +5389,15 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 430116-0	31/01/2021	Torque Wrench 4-20NM	-	430116-0 / Torque Wrench 4-20NM
 430117-0	31/01/2021	Bosch Battery Impact Tool with Torque	-	430117-0 / Bosch Battery Impact Tool with Torque
 430118-0	31/01/2021	Bosch Battery Impact Tool with Torque	25000044	430118-0 / Bosch Battery Impact Tool with Torque
-430118-0	31/01/2021	Bosch Battery Impact Tool with Torque	025000044	430118-0 / Bosch Battery Impact Tool with Torque
+430118-0	31/01/2021	Bosch Battery Impact Tool with Torque	25000044	430118-0 / Bosch Battery Impact Tool with Torque
 430119-0	31/01/2021	Bosch Battery Impact Tool with Torque	-	430119-0 / Bosch Battery Impact Tool with Torque
 430120-0	31/01/2021	Bosch Battery Impact Tool with Torque	-	430120-0 / Bosch Battery Impact Tool with Torque
 430121-0	31/01/2021	Bosch Battery Impact Tool with Torque	-	430121-0 / Bosch Battery Impact Tool with Torque
 430122-0	31/01/2021	Bosch Angle Grinder GWS 13-125 CL	-	430122-0 / Bosch Angle Grinder GWS 13-125 CL
 430123-0	31/01/2021	Bosch Angle Grinder GWS 13-125 CL	22000802	430123-0 / Bosch Angle Grinder GWS 13-125 CL
-430123-0	31/01/2021	Bosch Angle Grinder GWS 13-125 CL	022000802	430123-0 / Bosch Angle Grinder GWS 13-125 CL
+430123-0	31/01/2021	Bosch Angle Grinder GWS 13-125 CL	22000802	430123-0 / Bosch Angle Grinder GWS 13-125 CL
 430124-0	31/01/2021	Bosch Angle Grinder GWS 13-125 CL	22001029	430124-0 / Bosch Angle Grinder GWS 13-125 CL
-430124-0	31/01/2021	Bosch Angle Grinder GWS 13-125 CL	022001029	430124-0 / Bosch Angle Grinder GWS 13-125 CL
+430124-0	31/01/2021	Bosch Angle Grinder GWS 13-125 CL	22001029	430124-0 / Bosch Angle Grinder GWS 13-125 CL
 430125-0	31/01/2021	Bosch Angle Grinder GWS 13-125 CL	-	430125-0 / Bosch Angle Grinder GWS 13-125 CL
 430126-0	31/01/2021	Bosch Angle Grinder GWS 13-125 CL	-	430126-0 / Bosch Angle Grinder GWS 13-125 CL
 430127-0	31/01/2021	Bosch Angle Grinder GWS 13-125 CL	-	430127-0 / Bosch Angle Grinder GWS 13-125 CL
@@ -5705,8 +5705,8 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 430429-0	30/04/2021	Buttery Gun Set Ingersoll Rand W5151P-K22	SR18K0010	430429-0 / Buttery Gun Set Ingersoll Rand W5151P-K22
 430430-0	30/04/2021	Buttery Gun Set Ingersoll Rand W5151P-K22 (2)	-	430430-0 / Buttery Gun Set Ingersoll Rand W5151P-K22 (2)
 430431-0	30/04/2021	Buttery Gun Set Ingersoll Rand W5151P-K22 (3)	-	430431-0 / Buttery Gun Set Ingersoll Rand W5151P-K22 (3)
+430432-0	30/04/2021	Car Lifter Launch Two Post TLT240SB(S) 	5,34E+11	430432-0 / Car Lifter Launch Two Post TLT240SB(S) 
 430432-0	30/04/2021	Car Lifter Launch Two Post TLT240SB(S) 	5,3401E+11	430432-0 / Car Lifter Launch Two Post TLT240SB(S) 
-430432-0	30/04/2021	Car Lifter Launch Two Post TLT240SB(S) 	534010000402	430432-0 / Car Lifter Launch Two Post TLT240SB(S) 
 430433-0	30/04/2021	Hydraulic Mobile Scissor Lifter	050386-0154-0320	430433-0 / Hydraulic Mobile Scissor Lifter
 430434-0	30/04/2021	Tohnichi QSP50N3 (3/8 inch)	189973K	430434-0 / Tohnichi QSP50N3 (3/8 inch)
 430435-0	30/04/2021	Tohnichi QSP50N3 (3/8 inch) (2)	189974K	430435-0 / Tohnichi QSP50N3 (3/8 inch) (2)
@@ -5900,12 +5900,12 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 430623-0	30/04/2021	Belt Tension Gauge Gates Unita U-508	B20A7737	430623-0 / Belt Tension Gauge Gates Unita U-508
 430624-0	30/04/2021	Verticality Measuring Machine Trimos V4-700	15909005	430624-0 / Verticality Measuring Machine Trimos V4-700
 430625-0	30/04/2021	Combustion Capacity Measuring Machine	400137	430625-0 / Combustion Capacity Measuring Machine
-430625-0	30/04/2021	Combustion Capacity Measuring Machine	00400137	430625-0 / Combustion Capacity Measuring Machine
+430625-0	30/04/2021	Combustion Capacity Measuring Machine	400137	430625-0 / Combustion Capacity Measuring Machine
 430626-0	30/04/2021	Hoist 0.5Ton	1770429	430626-0 / Hoist 0.5Ton
 430627-0	30/04/2021	Hoist 1Ton	57174	430627-0 / Hoist 1Ton
-430627-0	30/04/2021	Hoist 1Ton	057174	430627-0 / Hoist 1Ton
+430627-0	30/04/2021	Hoist 1Ton	57174	430627-0 / Hoist 1Ton
 430628-0	30/04/2021	Hoist 1Ton (2)	57174	430628-0 / Hoist 1Ton (2)
-430628-0	30/04/2021	Hoist 1Ton (2)	057174	430628-0 / Hoist 1Ton (2)
+430628-0	30/04/2021	Hoist 1Ton (2)	57174	430628-0 / Hoist 1Ton (2)
 430629-0	30/04/2021	Dini Argeo Portable Truck Scale WWSE 15T	0100681416B1	430629-0 / Dini Argeo Portable Truck Scale WWSE 15T
 430630-0	30/04/2021	Dini Argeo Portable Truck Scale WWSE 15T (2)	858822B1	430630-0 / Dini Argeo Portable Truck Scale WWSE 15T (2)
 430631-0	30/04/2021	Dini Argeo Portable Truck Scale WWSE 15T (3)	858825B1	430631-0 / Dini Argeo Portable Truck Scale WWSE 15T (3)
@@ -5952,10 +5952,10 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 430672-0	31/07/2021	Hand Pallet Big 2T (1)	-	430672-0 / Hand Pallet Big 2T (1)
 430673-0	31/07/2021	Hand Pallet Big 2T (2)	-	430673-0 / Hand Pallet Big 2T (2)
 430674-0	31/07/2021	High Pressure Hot And Cool H200 E 	700998828	430674-0 / High Pressure Hot And Cool H200 E 
+430675-0	31/07/2021	Vacuum Dry T22 L100 (1)	3,82E+12	430675-0 / Vacuum Dry T22 L100 (1)
 430675-0	31/07/2021	Vacuum Dry T22 L100 (1)	3,82019E+12	430675-0 / Vacuum Dry T22 L100 (1)
-430675-0	31/07/2021	Vacuum Dry T22 L100 (1)	3820193000180	430675-0 / Vacuum Dry T22 L100 (1)
+430676-0	31/07/2021	Vacuum Dry T22 L100 (2)	3,82E+12	430676-0 / Vacuum Dry T22 L100 (2)
 430676-0	31/07/2021	Vacuum Dry T22 L100 (2)	3,82019E+12	430676-0 / Vacuum Dry T22 L100 (2)
-430676-0	31/07/2021	Vacuum Dry T22 L100 (2)	3820194100189	430676-0 / Vacuum Dry T22 L100 (2)
 430677-0	31/07/2021	Vernier Caliper 11IN/0.02MM 	-	430677-0 / Vernier Caliper 11IN/0.02MM 
 430678-0	31/07/2021	Gauge Block Steel Set	2002381	430678-0 / Gauge Block Steel Set
 430679-0	31/07/2021	Surftest SJ-210 0.75MN (1 EA)	100342006	430679-0 / Surftest SJ-210 0.75MN (1 EA)
@@ -6233,8 +6233,8 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 430951-0	30/09/2021	Ultrasonic Welding Inspection Equipment 	7240	430951-0 / Ultrasonic Welding Inspection Equipment 
 430952-0	30/09/2021	Height Gauge VHK-30 	1600502	430952-0 / Height Gauge VHK-30 
 430953-0	30/09/2021	Digital Torque Analyzer LC200N3-G Tohnichi 	702743K	430953-0 / Digital Torque Analyzer LC200N3-G Tohnichi 
+430954-0	30/09/2021	Video Boroscope 9MM Cam (1)	7,94E+11	430954-0 / Video Boroscope 9MM Cam (1)
 430954-0	30/09/2021	Video Boroscope 9MM Cam (1)	7,93951E+11	430954-0 / Video Boroscope 9MM Cam (1)
-430954-0	30/09/2021	Video Boroscope 9MM Cam (1)	793950632505	430954-0 / Video Boroscope 9MM Cam (1)
 430955-0	30/09/2021	Video Boroscope 9MM Cam (2)	-	430955-0 / Video Boroscope 9MM Cam (2)
 430956-0	30/09/2021	Digital Vernier Caliper DT-150 (1)	GE0700958	430956-0 / Digital Vernier Caliper DT-150 (1)
 430957-0	30/09/2021	Digital Vernier Caliper DT-150 (2)	GE0700990	430957-0 / Digital Vernier Caliper DT-150 (2)
@@ -6246,8 +6246,8 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 430963-0	31/08/2021	Drying Furnace Temperature Meter (1)	1301032	430963-0 / Drying Furnace Temperature Meter (1)
 430964-0	31/08/2021	Drying Furnace Temperature Meter (2)	1301033	430964-0 / Drying Furnace Temperature Meter (2)
 430965-0	31/08/2021	Metalurgy Microscope Meiji Techno	2000215	430965-0 / Metalurgy Microscope Meiji Techno
+430966-0	31/08/2021	IR Thermometer Single Laser 650C IR270 	2,02E+13	430966-0 / IR Thermometer Single Laser 650C IR270 
 430966-0	31/08/2021	IR Thermometer Single Laser 650C IR270 	2,02006E+13	430966-0 / IR Thermometer Single Laser 650C IR270 
-430966-0	31/08/2021	IR Thermometer Single Laser 650C IR270 	20200630001067	430966-0 / IR Thermometer Single Laser 650C IR270 
 430967-0	31/08/2021	Thickness Meter Fischer FMP 100 (1)	100125731	430967-0 / Thickness Meter Fischer FMP 100 (1)
 430968-0	31/08/2021	Thickness Meter Fischer FMP 100 (2)	100125735	430968-0 / Thickness Meter Fischer FMP 100 (2)
 430969-0	31/08/2021	Thickness Meter Fischer FMP 100 (3)	100143799	430969-0 / Thickness Meter Fischer FMP 100 (3)
@@ -6258,7 +6258,7 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 430974-0	31/08/2021	Cross Cut Tester (2)	FJ109885	430974-0 / Cross Cut Tester (2)
 430975-0	31/08/2021	Cross Cut Tester (3)	FJ127219	430975-0 / Cross Cut Tester (3)
 430976-0	31/08/2021	Agitator Paint 	8110041	430976-0 / Agitator Paint 
-430976-0	31/08/2021	Agitator Paint 	08110041	430976-0 / Agitator Paint 
+430976-0	31/08/2021	Agitator Paint 	8110041	430976-0 / Agitator Paint 
 430977-0	31/08/2021	Electrodeposition Power Supply 	GE450202007240032	430977-0 / Electrodeposition Power Supply 
 430978-0	31/08/2021	Viscometer Brookfield DV2T (1)	86015511	430978-0 / Viscometer Brookfield DV2T (1)
 430979-0	31/08/2021	Viscometer Brookfield DV2T (2)	86012368	430979-0 / Viscometer Brookfield DV2T (2)
@@ -6322,7 +6322,7 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 431037-0	31/08/2021	Hitachi SG Underhung Crane 1T 	20J9500002	431037-0 / Hitachi SG Underhung Crane 1T 
 431038-0	31/08/2021	Mini Scissor Lift in Ground HL-32X 3.3 Ton (1)	19G05	431038-0 / Mini Scissor Lift in Ground HL-32X 3.3 Ton (1)
 431039-0	31/08/2021	Mini Scissor Lift in Ground HL-32X 3.3 Ton (2)	1,90E+04	431039-0 / Mini Scissor Lift in Ground HL-32X 3.3 Ton (2)
-431039-0	31/08/2021	Mini Scissor Lift in Ground HL-32X 3.3 Ton (2)	19E03	431039-0 / Mini Scissor Lift in Ground HL-32X 3.3 Ton (2)
+431039-0	31/08/2021	Mini Scissor Lift in Ground HL-32X 3.3 Ton (2)	1,90E+04	431039-0 / Mini Scissor Lift in Ground HL-32X 3.3 Ton (2)
 431040-0	31/08/2021	Mini Scissor Lift in Ground HL-32X 3.3 Ton (3)	19Z05	431040-0 / Mini Scissor Lift in Ground HL-32X 3.3 Ton (3)
 431041-0	31/08/2021	EV Charger AC 22kW 	JV6210400002WE	431041-0 / EV Charger AC 22kW 
 431042-0	31/08/2021	EV Charger AC 7kW 	JDJ202001437W0	431042-0 / EV Charger AC 7kW 
@@ -6338,7 +6338,7 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 431052-0	31/08/2021	ABS Dig Caliper 0-150/0.01MM (1)	B19337102	431052-0 / ABS Dig Caliper 0-150/0.01MM (1)
 431053-0	31/08/2021	ABS Dig Caliper 0-150/0.01MM (2)	B19337089	431053-0 / ABS Dig Caliper 0-150/0.01MM (2)
 431054-0	31/08/2021	ABS Dig Caliper 0-300/0.01MM (1)	28712	431054-0 / ABS Dig Caliper 0-300/0.01MM (1)
-431054-0	31/08/2021	ABS Dig Caliper 0-300/0.01MM (1)	0028712	431054-0 / ABS Dig Caliper 0-300/0.01MM (1)
+431054-0	31/08/2021	ABS Dig Caliper 0-300/0.01MM (1)	28712	431054-0 / ABS Dig Caliper 0-300/0.01MM (1)
 431055-0	31/08/2021	Black Granite 600x450x100MM (1)	-	431055-0 / Black Granite 600x450x100MM (1)
 431056-0	31/08/2021	ABS Dig Indicator 12/0.01MM (1)	-	431056-0 / ABS Dig Indicator 12/0.01MM (1)
 431057-0	31/08/2021	Magnetic Stand Universal 7033B (1)	-	431057-0 / Magnetic Stand Universal 7033B (1)
@@ -6365,13 +6365,13 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 431078-0	30/09/2021	Makita Cardless LI-ion Impact wrench with LED (4)	-	431078-0 / Makita Cardless LI-ion Impact wrench with LED (4)
 431079-0	30/09/2021	Refraktometer AR-Master-53T	48555504	431079-0 / Refraktometer AR-Master-53T
 431080-0	30/09/2021	Mitutoyo Dig Dapth Gauge 200/0.01mm (1)	21595	431080-0 / Mitutoyo Dig Dapth Gauge 200/0.01mm (1)
-431080-0	30/09/2021	Mitutoyo Dig Dapth Gauge 200/0.01mm (1)	0021595	431080-0 / Mitutoyo Dig Dapth Gauge 200/0.01mm (1)
+431080-0	30/09/2021	Mitutoyo Dig Dapth Gauge 200/0.01mm (1)	21595	431080-0 / Mitutoyo Dig Dapth Gauge 200/0.01mm (1)
 431081-0	30/09/2021	Mitutoyo Dig Dapth Gauge 200/0.01mm (2)	21617	431081-0 / Mitutoyo Dig Dapth Gauge 200/0.01mm (2)
-431081-0	30/09/2021	Mitutoyo Dig Dapth Gauge 200/0.01mm (2)	0021617	431081-0 / Mitutoyo Dig Dapth Gauge 200/0.01mm (2)
+431081-0	30/09/2021	Mitutoyo Dig Dapth Gauge 200/0.01mm (2)	21617	431081-0 / Mitutoyo Dig Dapth Gauge 200/0.01mm (2)
 431082-0	30/09/2021	Mitutoyo Dig Dapth Gauge 200/0.01mm (3)	21599	431082-0 / Mitutoyo Dig Dapth Gauge 200/0.01mm (3)
-431082-0	30/09/2021	Mitutoyo Dig Dapth Gauge 200/0.01mm (3)	0021599	431082-0 / Mitutoyo Dig Dapth Gauge 200/0.01mm (3)
+431082-0	30/09/2021	Mitutoyo Dig Dapth Gauge 200/0.01mm (3)	21599	431082-0 / Mitutoyo Dig Dapth Gauge 200/0.01mm (3)
 431083-0	30/09/2021	Mitutoyo Dig Dapth Gauge 200/0.01mm (4)	20613	431083-0 / Mitutoyo Dig Dapth Gauge 200/0.01mm (4)
-431083-0	30/09/2021	Mitutoyo Dig Dapth Gauge 200/0.01mm (4)	0020613	431083-0 / Mitutoyo Dig Dapth Gauge 200/0.01mm (4)
+431083-0	30/09/2021	Mitutoyo Dig Dapth Gauge 200/0.01mm (4)	20613	431083-0 / Mitutoyo Dig Dapth Gauge 200/0.01mm (4)
 431084-0	30/09/2021	Mitutoyo ABS Dig Caliper 6inch/0.01mm (1)	A19261003	431084-0 / Mitutoyo ABS Dig Caliper 6inch/0.01mm (1)
 431085-0	30/09/2021	Mitutoyo ABS Dig Caliper 6inch/0.01mm (2)	A19261095	431085-0 / Mitutoyo ABS Dig Caliper 6inch/0.01mm (2)
 431086-0	30/09/2021	Mitutoyo ABS Dig Caliper 6inch/0.01mm (3)	A19260989	431086-0 / Mitutoyo ABS Dig Caliper 6inch/0.01mm (3)
@@ -6411,13 +6411,13 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 431120-0	30/09/2021	Fire Suppression System 	WR0099957	431120-0 / Fire Suppression System 
 431121-0	30/09/2021	Gauge Block Cera Set 	2005387	431121-0 / Gauge Block Cera Set 
 431122-0	30/09/2021	Dig Depth Gage 150/0.01mm (1)	36402	431122-0 / Dig Depth Gage 150/0.01mm (1)
-431122-0	30/09/2021	Dig Depth Gage 150/0.01mm (1)	0036402	431122-0 / Dig Depth Gage 150/0.01mm (1)
+431122-0	30/09/2021	Dig Depth Gage 150/0.01mm (1)	36402	431122-0 / Dig Depth Gage 150/0.01mm (1)
 431123-0	30/09/2021	Dig Depth Gage 150/0.01mm (2)	36387	431123-0 / Dig Depth Gage 150/0.01mm (2)
-431123-0	30/09/2021	Dig Depth Gage 150/0.01mm (2)	0036387	431123-0 / Dig Depth Gage 150/0.01mm (2)
+431123-0	30/09/2021	Dig Depth Gage 150/0.01mm (2)	36387	431123-0 / Dig Depth Gage 150/0.01mm (2)
 431124-0	30/09/2021	Dig Depth Gage 150/0.01mm (3)	35092	431124-0 / Dig Depth Gage 150/0.01mm (3)
-431124-0	30/09/2021	Dig Depth Gage 150/0.01mm (3)	0035092	431124-0 / Dig Depth Gage 150/0.01mm (3)
+431124-0	30/09/2021	Dig Depth Gage 150/0.01mm (3)	35092	431124-0 / Dig Depth Gage 150/0.01mm (3)
 431125-0	30/09/2021	Dig Depth Gage 150/0.01mm (4)	36386	431125-0 / Dig Depth Gage 150/0.01mm (4)
-431125-0	30/09/2021	Dig Depth Gage 150/0.01mm (4)	0036386	431125-0 / Dig Depth Gage 150/0.01mm (4)
+431125-0	30/09/2021	Dig Depth Gage 150/0.01mm (4)	36386	431125-0 / Dig Depth Gage 150/0.01mm (4)
 431126-0	30/09/2021	Dig Holtest 6-8mm /0.001mm 	6103917	431126-0 / Dig Holtest 6-8mm /0.001mm 
 431127-0	30/09/2021	Dig Holtest 8-10mm /0.001mm 	6100719	431127-0 / Dig Holtest 8-10mm /0.001mm 
 431128-0	30/09/2021	Dig Holtest 10-12mm /0.001mm 	6091426	431128-0 / Dig Holtest 10-12mm /0.001mm 
@@ -6429,37 +6429,37 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 431134-0	30/09/2021	Bore Gage 50-150/0.01mm (1)	20681720	431134-0 / Bore Gage 50-150/0.01mm (1)
 431135-0	30/09/2021	Bore Gage 50-150/0.01mm (2)	19664019	431135-0 / Bore Gage 50-150/0.01mm (2)
 431136-0	30/09/2021	Impact Wrench 3/8IN FW-6PX-5 (1)	61001	431136-0 / Impact Wrench 3/8IN FW-6PX-5 (1)
-431136-0	30/09/2021	Impact Wrench 3/8IN FW-6PX-5 (1)	061001	431136-0 / Impact Wrench 3/8IN FW-6PX-5 (1)
+431136-0	30/09/2021	Impact Wrench 3/8IN FW-6PX-5 (1)	61001	431136-0 / Impact Wrench 3/8IN FW-6PX-5 (1)
 431137-0	30/09/2021	Impact Wrench 3/8IN FW-6PX-5 (2)	61002	431137-0 / Impact Wrench 3/8IN FW-6PX-5 (2)
-431137-0	30/09/2021	Impact Wrench 3/8IN FW-6PX-5 (2)	061002	431137-0 / Impact Wrench 3/8IN FW-6PX-5 (2)
+431137-0	30/09/2021	Impact Wrench 3/8IN FW-6PX-5 (2)	61002	431137-0 / Impact Wrench 3/8IN FW-6PX-5 (2)
 431138-0	30/09/2021	Impact Wrench 3/8IN FW-6PX-5 (3)	61003	431138-0 / Impact Wrench 3/8IN FW-6PX-5 (3)
-431138-0	30/09/2021	Impact Wrench 3/8IN FW-6PX-5 (3)	061003	431138-0 / Impact Wrench 3/8IN FW-6PX-5 (3)
+431138-0	30/09/2021	Impact Wrench 3/8IN FW-6PX-5 (3)	61003	431138-0 / Impact Wrench 3/8IN FW-6PX-5 (3)
 431139-0	30/09/2021	Impact Wrench 3/8IN FW-6PX-5 (4)	61004	431139-0 / Impact Wrench 3/8IN FW-6PX-5 (4)
-431139-0	30/09/2021	Impact Wrench 3/8IN FW-6PX-5 (4)	061004	431139-0 / Impact Wrench 3/8IN FW-6PX-5 (4)
+431139-0	30/09/2021	Impact Wrench 3/8IN FW-6PX-5 (4)	61004	431139-0 / Impact Wrench 3/8IN FW-6PX-5 (4)
 431140-0	30/09/2021	Impact Wrench 1/2IN 63-120NM (1)	61008	431140-0 / Impact Wrench 1/2IN 63-120NM (1)
-431140-0	30/09/2021	Impact Wrench 1/2IN 63-120NM (1)	061008	431140-0 / Impact Wrench 1/2IN 63-120NM (1)
+431140-0	30/09/2021	Impact Wrench 1/2IN 63-120NM (1)	61008	431140-0 / Impact Wrench 1/2IN 63-120NM (1)
 431141-0	30/09/2021	Impact Wrench 1/2IN 63-120NM (2)	61009	431141-0 / Impact Wrench 1/2IN 63-120NM (2)
-431141-0	30/09/2021	Impact Wrench 1/2IN 63-120NM (2)	061009	431141-0 / Impact Wrench 1/2IN 63-120NM (2)
+431141-0	30/09/2021	Impact Wrench 1/2IN 63-120NM (2)	61009	431141-0 / Impact Wrench 1/2IN 63-120NM (2)
 431142-0	30/09/2021	Impact Wrench 1/2IN 63-120NM (3)	61011	431142-0 / Impact Wrench 1/2IN 63-120NM (3)
-431142-0	30/09/2021	Impact Wrench 1/2IN 63-120NM (3)	061011	431142-0 / Impact Wrench 1/2IN 63-120NM (3)
+431142-0	30/09/2021	Impact Wrench 1/2IN 63-120NM (3)	61011	431142-0 / Impact Wrench 1/2IN 63-120NM (3)
 431143-0	30/09/2021	Impact Wrench 1/2IN 63-120NM (4)	61012	431143-0 / Impact Wrench 1/2IN 63-120NM (4)
-431143-0	30/09/2021	Impact Wrench 1/2IN 63-120NM (4)	061012	431143-0 / Impact Wrench 1/2IN 63-120NM (4)
+431143-0	30/09/2021	Impact Wrench 1/2IN 63-120NM (4)	61012	431143-0 / Impact Wrench 1/2IN 63-120NM (4)
 431144-0	30/09/2021	Impact Wrench 3/8IN 27-40NM (1)	60007	431144-0 / Impact Wrench 3/8IN 27-40NM (1)
-431144-0	30/09/2021	Impact Wrench 3/8IN 27-40NM (1)	060007	431144-0 / Impact Wrench 3/8IN 27-40NM (1)
+431144-0	30/09/2021	Impact Wrench 3/8IN 27-40NM (1)	60007	431144-0 / Impact Wrench 3/8IN 27-40NM (1)
 431145-0	30/09/2021	Impact Wrench 3/8IN 27-40NM (2)	60009	431145-0 / Impact Wrench 3/8IN 27-40NM (2)
-431145-0	30/09/2021	Impact Wrench 3/8IN 27-40NM (2)	060009	431145-0 / Impact Wrench 3/8IN 27-40NM (2)
+431145-0	30/09/2021	Impact Wrench 3/8IN 27-40NM (2)	60009	431145-0 / Impact Wrench 3/8IN 27-40NM (2)
 431146-0	30/09/2021	Impact Wrench 3/8IN 27-40NM (3)	60010	431146-0 / Impact Wrench 3/8IN 27-40NM (3)
-431146-0	30/09/2021	Impact Wrench 3/8IN 27-40NM (3)	060010	431146-0 / Impact Wrench 3/8IN 27-40NM (3)
+431146-0	30/09/2021	Impact Wrench 3/8IN 27-40NM (3)	60010	431146-0 / Impact Wrench 3/8IN 27-40NM (3)
 431147-0	30/09/2021	Impact Wrench 3/8IN 27-40NM (4)	60008	431147-0 / Impact Wrench 3/8IN 27-40NM (4)
-431147-0	30/09/2021	Impact Wrench 3/8IN 27-40NM (4)	060008	431147-0 / Impact Wrench 3/8IN 27-40NM (4)
+431147-0	30/09/2021	Impact Wrench 3/8IN 27-40NM (4)	60008	431147-0 / Impact Wrench 3/8IN 27-40NM (4)
 431148-0	30/09/2021	Impact Wrench 100-150NM (1)	60001	431148-0 / Impact Wrench 100-150NM (1)
-431148-0	30/09/2021	Impact Wrench 100-150NM (1)	060001	431148-0 / Impact Wrench 100-150NM (1)
+431148-0	30/09/2021	Impact Wrench 100-150NM (1)	60001	431148-0 / Impact Wrench 100-150NM (1)
 431149-0	30/09/2021	Impact Wrench 100-150NM (2)	60003	431149-0 / Impact Wrench 100-150NM (2)
-431149-0	30/09/2021	Impact Wrench 100-150NM (2)	060003	431149-0 / Impact Wrench 100-150NM (2)
+431149-0	30/09/2021	Impact Wrench 100-150NM (2)	60003	431149-0 / Impact Wrench 100-150NM (2)
 431150-0	30/09/2021	Impact Wrench 100-150NM (3)	60004	431150-0 / Impact Wrench 100-150NM (3)
-431150-0	30/09/2021	Impact Wrench 100-150NM (3)	060004	431150-0 / Impact Wrench 100-150NM (3)
+431150-0	30/09/2021	Impact Wrench 100-150NM (3)	60004	431150-0 / Impact Wrench 100-150NM (3)
 431151-0	30/09/2021	Impact Wrench 100-150NM (4)	60005	431151-0 / Impact Wrench 100-150NM (4)
-431151-0	30/09/2021	Impact Wrench 100-150NM (4)	060005	431151-0 / Impact Wrench 100-150NM (4)
+431151-0	30/09/2021	Impact Wrench 100-150NM (4)	60005	431151-0 / Impact Wrench 100-150NM (4)
 431152-0	30/09/2021	Mastering Gauge 177-126-10mm 	190562	431152-0 / Mastering Gauge 177-126-10mm 
 431153-0	30/09/2021	Mastering Gauge 177-284-12mm 	190093	431153-0 / Mastering Gauge 177-284-12mm 
 431154-0	30/09/2021	Mastering Gauge 177-177-16mm 	180078	431154-0 / Mastering Gauge 177-177-16mm 
@@ -6491,41 +6491,41 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 431180-0	31/08/2021	Vernier Caliper DT-150 (9)	GF0800651	431180-0 / Vernier Caliper DT-150 (9)
 431181-0	31/08/2021	Vernier Caliper DT-150 (10)	-	431181-0 / Vernier Caliper DT-150 (10)
 431182-0	31/08/2021	GRX-3000 AP 200 P Kit PS/A268 	321140206	431182-0 / GRX-3000 AP 200 P Kit PS/A268 
-431182-0	31/08/2021	GRX-3000 AP 200 P Kit PS/A268 	0321140206	431182-0 / GRX-3000 AP 200 P Kit PS/A268 
+431182-0	31/08/2021	GRX-3000 AP 200 P Kit PS/A268 	321140206	431182-0 / GRX-3000 AP 200 P Kit PS/A268 
 431183-0	31/08/2021	Bosch Laser Leveler GLL 5-50 X Kit 	28000656	431183-0 / Bosch Laser Leveler GLL 5-50 X Kit 
-431183-0	31/08/2021	Bosch Laser Leveler GLL 5-50 X Kit 	028000656	431183-0 / Bosch Laser Leveler GLL 5-50 X Kit 
+431183-0	31/08/2021	Bosch Laser Leveler GLL 5-50 X Kit 	28000656	431183-0 / Bosch Laser Leveler GLL 5-50 X Kit 
 431184-0	31/08/2021	Hydraulic Lift Table 500 Kg MLT-50 	15042809/006T	431184-0 / Hydraulic Lift Table 500 Kg MLT-50 
 431185-0	31/08/2021	Hydraulic Hand Pallet KW0500396 	050396-0233-1020	431185-0 / Hydraulic Hand Pallet KW0500396 
 431186-0	31/08/2021	Electronic Squeak and Rattle Finder 	14089	431186-0 / Electronic Squeak and Rattle Finder 
 431187-0	31/08/2021	Cordless Compact Imapact Driver (1)	457	431187-0 / Cordless Compact Imapact Driver (1)
-431187-0	31/08/2021	Cordless Compact Imapact Driver (1)	0457	431187-0 / Cordless Compact Imapact Driver (1)
+431187-0	31/08/2021	Cordless Compact Imapact Driver (1)	457	431187-0 / Cordless Compact Imapact Driver (1)
 431188-0	31/08/2021	Cordless Compact Imapact Driver (2)	461	431188-0 / Cordless Compact Imapact Driver (2)
-431188-0	31/08/2021	Cordless Compact Imapact Driver (2)	0461	431188-0 / Cordless Compact Imapact Driver (2)
+431188-0	31/08/2021	Cordless Compact Imapact Driver (2)	461	431188-0 / Cordless Compact Imapact Driver (2)
 431189-0	31/08/2021	Cordless Compact Imapact Driver (3)	448	431189-0 / Cordless Compact Imapact Driver (3)
-431189-0	31/08/2021	Cordless Compact Imapact Driver (3)	0448	431189-0 / Cordless Compact Imapact Driver (3)
+431189-0	31/08/2021	Cordless Compact Imapact Driver (3)	448	431189-0 / Cordless Compact Imapact Driver (3)
 431190-0	31/08/2021	Cordless Compact Imapact Driver (4)	450	431190-0 / Cordless Compact Imapact Driver (4)
-431190-0	31/08/2021	Cordless Compact Imapact Driver (4)	0450	431190-0 / Cordless Compact Imapact Driver (4)
+431190-0	31/08/2021	Cordless Compact Imapact Driver (4)	450	431190-0 / Cordless Compact Imapact Driver (4)
 431191-0	31/08/2021	Cordless Compact Imapact Driver (5)	478	431191-0 / Cordless Compact Imapact Driver (5)
-431191-0	31/08/2021	Cordless Compact Imapact Driver (5)	0478	431191-0 / Cordless Compact Imapact Driver (5)
+431191-0	31/08/2021	Cordless Compact Imapact Driver (5)	478	431191-0 / Cordless Compact Imapact Driver (5)
 431192-0	31/08/2021	Cordless Compact Imapact Driver (6)	479	431192-0 / Cordless Compact Imapact Driver (6)
-431192-0	31/08/2021	Cordless Compact Imapact Driver (6)	0479	431192-0 / Cordless Compact Imapact Driver (6)
+431192-0	31/08/2021	Cordless Compact Imapact Driver (6)	479	431192-0 / Cordless Compact Imapact Driver (6)
 431193-0	31/08/2021	Cordless Compact Imapact Driver (7)	474	431193-0 / Cordless Compact Imapact Driver (7)
-431193-0	31/08/2021	Cordless Compact Imapact Driver (7)	0474	431193-0 / Cordless Compact Imapact Driver (7)
+431193-0	31/08/2021	Cordless Compact Imapact Driver (7)	474	431193-0 / Cordless Compact Imapact Driver (7)
 431194-0	31/08/2021	Cordless Compact Imapact Driver (8)	465	431194-0 / Cordless Compact Imapact Driver (8)
-431194-0	31/08/2021	Cordless Compact Imapact Driver (8)	0465	431194-0 / Cordless Compact Imapact Driver (8)
+431194-0	31/08/2021	Cordless Compact Imapact Driver (8)	465	431194-0 / Cordless Compact Imapact Driver (8)
 431195-0	31/08/2021	Cordless Compact Imapact Driver (9)	446	431195-0 / Cordless Compact Imapact Driver (9)
-431195-0	31/08/2021	Cordless Compact Imapact Driver (9)	0446	431195-0 / Cordless Compact Imapact Driver (9)
+431195-0	31/08/2021	Cordless Compact Imapact Driver (9)	446	431195-0 / Cordless Compact Imapact Driver (9)
 431196-0	31/08/2021	Cordless Compact Imapact Driver (10)	476	431196-0 / Cordless Compact Imapact Driver (10)
-431196-0	31/08/2021	Cordless Compact Imapact Driver (10)	0476	431196-0 / Cordless Compact Imapact Driver (10)
+431196-0	31/08/2021	Cordless Compact Imapact Driver (10)	476	431196-0 / Cordless Compact Imapact Driver (10)
 431197-0	31/08/2021	Tool Set with Trolley Cart (1)	-	431197-0 / Tool Set with Trolley Cart (1)
 431198-0	31/08/2021	Tool Set with Trolley Cart (2)	-	431198-0 / Tool Set with Trolley Cart (2)
 431199-0	31/08/2021	Tool Set with Trolley Cart (3)	-	431199-0 / Tool Set with Trolley Cart (3)
 431200-0	31/08/2021	Tool Set with Trolley Cart (4)	-	431200-0 / Tool Set with Trolley Cart (4)
 431201-0	31/08/2021	Thermometer Fluke 62 Max+ 	-	431201-0 / Thermometer Fluke 62 Max+ 
 431202-0	31/08/2021	Hydrometer Specific Gravity Cup DA-130N 	5000332	431202-0 / Hydrometer Specific Gravity Cup DA-130N 
-431202-0	31/08/2021	Hydrometer Specific Gravity Cup DA-130N 	05000332	431202-0 / Hydrometer Specific Gravity Cup DA-130N 
+431202-0	31/08/2021	Hydrometer Specific Gravity Cup DA-130N 	5000332	431202-0 / Hydrometer Specific Gravity Cup DA-130N 
+431203-0	31/08/2021	Endoscope Extech BR250 	2,02E+12	431203-0 / Endoscope Extech BR250 
 431203-0	31/08/2021	Endoscope Extech BR250 	2,02101E+12	431203-0 / Endoscope Extech BR250 
-431203-0	31/08/2021	Endoscope Extech BR250 	2021012900247	431203-0 / Endoscope Extech BR250 
 431204-0	31/08/2021	Digital Refractormeter Atago 	AB211620	431204-0 / Digital Refractormeter Atago 
 431205-0	31/08/2021	Environment Meter 5 in 1 Pro 	10176832-0016-1120	431205-0 / Environment Meter 5 in 1 Pro 
 431206-0	31/08/2021	Digital Force Gauge 500N ZTS-500N 	442794	431206-0 / Digital Force Gauge 500N ZTS-500N 
@@ -6555,7 +6555,7 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 431230-0	31/08/2021	Digital Torque Wrench CEM100N3X10D-G 	706297L	431230-0 / Digital Torque Wrench CEM100N3X10D-G 
 431231-0	31/08/2021	Surface Granite Plate (1 pcs)	33025001	431231-0 / Surface Granite Plate (1 pcs)
 431232-0	31/08/2021	High Pressure Car Wash Machine 	21346	431232-0 / High Pressure Car Wash Machine 
-431232-0	31/08/2021	High Pressure Car Wash Machine 	021346	431232-0 / High Pressure Car Wash Machine 
+431232-0	31/08/2021	High Pressure Car Wash Machine 	21346	431232-0 / High Pressure Car Wash Machine 
 431233-0	31/08/2021	Mitutoyo Dig Depth Gauge 200/0.01 mm 	-	431233-0 / Mitutoyo Dig Depth Gauge 200/0.01 mm 
 431234-0	31/08/2021	Wet & Dry Vacuum Cleaner	-	431234-0 / Wet & Dry Vacuum Cleaner
 431235-0	31/08/2021	Hardmatic HH-411 (JIS)	206434	431235-0 / Hardmatic HH-411 (JIS)
@@ -7725,7 +7725,7 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 432399-0		Welding Gun C Reinf Side OTR LH 231-1 (252)	-	432399-0 / Welding Gun C Reinf Side OTR LH 231-1 (252)
 432400-0		Welding Gun C Reinf Side OTR LH 231-1-1 (253)	-	432400-0 / Welding Gun C Reinf Side OTR LH 231-1-1 (253)
 432401-0		Welding Gun C Reinf Side OTR LH 232-1 (254)	-	432401-0 / Welding Gun C Reinf Side OTR LH 232-1 (254)
-432402-0		Welding Gun C Reinf Side OTR LH 234-1 (255)	-	432402-0 / Welding Gun C Reinf Side OTR LH 234-1 (255)
+432402-0		Welding Gun C Reinf Side OTR LH 234-3 (255)	-	432402-0 / Welding Gun C Reinf Side OTR LH 234-3 (255)
 432403-0		Welding Gun C Reinf Side OTR LH 234-2 (256)	-	432403-0 / Welding Gun C Reinf Side OTR LH 234-2 (256)
 432404-0		Welding Gun C Reinf Side OTR LH 235-1 (257)	-	432404-0 / Welding Gun C Reinf Side OTR LH 235-1 (257)
 432405-0		Welding Gun C Reinf Side OTR LH 235-2 (258)	-	432405-0 / Welding Gun C Reinf Side OTR LH 235-2 (258)
@@ -7736,7 +7736,7 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 432410-0		Welding Gun C Reinf Side OTR RH 231-1 (263)	-	432410-0 / Welding Gun C Reinf Side OTR RH 231-1 (263)
 432411-0		Welding Gun C Reinf Side OTR RH 231-1-1 (264)	-	432411-0 / Welding Gun C Reinf Side OTR RH 231-1-1 (264)
 432412-0		Welding Gun C Reinf Side OTR RH 232-1 (265)	-	432412-0 / Welding Gun C Reinf Side OTR RH 232-1 (265)
-432413-0		Welding Gun C Reinf Side OTR RH 234-1 (266)	-	432413-0 / Welding Gun C Reinf Side OTR RH 234-1 (266)
+432413-0		Welding Gun C Reinf Side OTR RH 234-3 (266)	-	432413-0 / Welding Gun C Reinf Side OTR RH 234-3 (266)
 432414-0		Welding Gun C Reinf Side OTR RH 234-2 (267)	-	432414-0 / Welding Gun C Reinf Side OTR RH 234-2 (267)
 432415-0		Welding Gun C Reinf Side OTR RH 235-1 (268)	-	432415-0 / Welding Gun C Reinf Side OTR RH 235-1 (268)
 432416-0		Welding Gun C Reinf Side OTR RH 235-2 (269)	-	432416-0 / Welding Gun C Reinf Side OTR RH 235-2 (269)
@@ -8299,7 +8299,7 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 432973-0		Timer Contacter Reinf Side OTR LH 231-1 (256)	-	432973-0 / Timer Contacter Reinf Side OTR LH 231-1 (256)
 432974-0		Timer Contacter Reinf Side OTR LH 231-1-1 (257)	-	432974-0 / Timer Contacter Reinf Side OTR LH 231-1-1 (257)
 432975-0		Timer Contacter Reinf Side OTR LH 232-1 (258)	-	432975-0 / Timer Contacter Reinf Side OTR LH 232-1 (258)
-432976-0		Timer Contacter Reinf Side OTR LH 234-1 (259)	-	432976-0 / Timer Contacter Reinf Side OTR LH 234-1 (259)
+432976-0		Timer Contacter Reinf Side OTR LH 234-1 (259)	-	432976-0 / Timer Contacter Reinf Side OTR LH 234-3 (259)
 432977-0		Timer Contacter Reinf Side OTR LH 234-2 (260)	-	432977-0 / Timer Contacter Reinf Side OTR LH 234-2 (260)
 432978-0		Timer Contacter Reinf Side OTR LH 235-1 (261)	-	432978-0 / Timer Contacter Reinf Side OTR LH 235-1 (261)
 432979-0		Timer Contacter Reinf Side OTR LH 235-2 (262)	-	432979-0 / Timer Contacter Reinf Side OTR LH 235-2 (262)
@@ -8310,7 +8310,7 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 432984-0		Timer Contacter Reinf Side OTR RH 231-1 (267)	-	432984-0 / Timer Contacter Reinf Side OTR RH 231-1 (267)
 432985-0		Timer Contacter Reinf Side OTR RH 231-1-1 (268)	-	432985-0 / Timer Contacter Reinf Side OTR RH 231-1-1 (268)
 432986-0		Timer Contacter Reinf Side OTR RH 232-1 (269)	-	432986-0 / Timer Contacter Reinf Side OTR RH 232-1 (269)
-432987-0		Timer Contacter Reinf Side OTR RH 234-1 (270)	-	432987-0 / Timer Contacter Reinf Side OTR RH 234-1 (270)
+432987-0		Timer Contacter Reinf Side OTR RH 234-1 (270)	-	432987-0 / Timer Contacter Reinf Side OTR RH 234-3 (270)
 432988-0		Timer Contacter Reinf Side OTR RH 234-2 (271)	-	432988-0 / Timer Contacter Reinf Side OTR RH 234-2 (271)
 432989-0		Timer Contacter Reinf Side OTR RH 235-1 (272)	-	432989-0 / Timer Contacter Reinf Side OTR RH 235-1 (272)
 432990-0		Timer Contacter Reinf Side OTR RH 235-2 (273)	-	432990-0 / Timer Contacter Reinf Side OTR RH 235-2 (273)
@@ -8433,10 +8433,10 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 433107-0	31/10/2021	Wipro Dongkrak Toe Jack TJ-050 (4)	-	433107-0 / Wipro Dongkrak Toe Jack TJ-050 (4)
 433108-0	31/10/2021	Wipro Dongkrak Toe Jack TJ-050 (5)	-	433108-0 / Wipro Dongkrak Toe Jack TJ-050 (5)
 433109-0	31/10/2021	Wipro Dongkrak Toe Jack TJ-050 (6)	-	433109-0 / Wipro Dongkrak Toe Jack TJ-050 (6)
-433110-0	31/10/2021	Bosch GBH 2-24 DRE Rotary Hammer (1)	028003390	433110-0 / Bosch GBH 2-24 DRE Rotary Hammer (1)
-433111-0	31/10/2021	Bosch GBH 2-24 DRE Rotary Hammer (2)	028003381	433111-0 / Bosch GBH 2-24 DRE Rotary Hammer (2)
-433112-0	31/10/2021	Bosch GBH 2-24 DRE Rotary Hammer (3)	028003372	433112-0 / Bosch GBH 2-24 DRE Rotary Hammer (3)
-433113-0	31/10/2021	Bosch GBH 2-24 DRE Rotary Hammer (4)	028003405	433113-0 / Bosch GBH 2-24 DRE Rotary Hammer (4)
+433110-0	31/10/2021	Bosch GBH 2-24 DRE Rotary Hammer (1)	28003390	433110-0 / Bosch GBH 2-24 DRE Rotary Hammer (1)
+433111-0	31/10/2021	Bosch GBH 2-24 DRE Rotary Hammer (2)	28003381	433111-0 / Bosch GBH 2-24 DRE Rotary Hammer (2)
+433112-0	31/10/2021	Bosch GBH 2-24 DRE Rotary Hammer (3)	28003372	433112-0 / Bosch GBH 2-24 DRE Rotary Hammer (3)
+433113-0	31/10/2021	Bosch GBH 2-24 DRE Rotary Hammer (4)	28003405	433113-0 / Bosch GBH 2-24 DRE Rotary Hammer (4)
 433114-0	31/10/2021	Enerpac RCS302 Hydraulic Cylinder (1)	-	433114-0 / Enerpac RCS302 Hydraulic Cylinder (1)
 433115-0	31/10/2021	Enerpac RCS302 Hydraulic Cylinder (2)	-	433115-0 / Enerpac RCS302 Hydraulic Cylinder (2)
 433116-0	31/10/2021	Telegratner RJ45 (1)	-	433116-0 / Telegratner RJ45 (1)
@@ -8451,19 +8451,19 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 433125-0	31/10/2021	Chain Quad Sling 2.6T Kito	-	433125-0 / Chain Quad Sling 2.6T Kito
 433126-0	31/10/2021	Hand Chain Hoist 3000kg CB030 (1)	696275 / 000010	433126-0 / Hand Chain Hoist 3000kg CB030 (1)
 433127-0	31/10/2021	Hand Chain Hoist 3000kg CB030 (2)	696275 / 000002	433127-0 / Hand Chain Hoist 3000kg CB030 (2)
-433128-0	31/10/2021	Hand Chain Hoist 3000kg CB030 (3)	000005	433128-0 / Hand Chain Hoist 3000kg CB030 (3)
+433128-0	31/10/2021	Hand Chain Hoist 3000kg CB030 (3)	5	433128-0 / Hand Chain Hoist 3000kg CB030 (3)
 433129-0	31/10/2021	Hand Chain Hoist 3000kg CB030 (4)	696275 / 000003	433129-0 / Hand Chain Hoist 3000kg CB030 (4)
 433130-0	31/10/2021	Hand Chain Hoist 5000kg 5TX16M	238144 / 000001	433130-0 / Hand Chain Hoist 5000kg 5TX16M
-433131-0	31/10/2021	Hand Chain Hoist 5000kg CB050	000014	433131-0 / Hand Chain Hoist 5000kg CB050
+433131-0	31/10/2021	Hand Chain Hoist 5000kg CB050	14	433131-0 / Hand Chain Hoist 5000kg CB050
 433132-0	31/10/2021	3 Jaws Puller 10" 	-	433132-0 / 3 Jaws Puller 10" 
 433133-0	31/10/2021	3 Jaws Puller 12"	-	433133-0 / 3 Jaws Puller 12"
 433134-0	31/10/2021	Lever Hoist 1600kg (1)	510807 / 000001	433134-0 / Lever Hoist 1600kg (1)
 433135-0	31/10/2021	Lever Hoist 1600kg (2)	516040 / 000010	433135-0 / Lever Hoist 1600kg (2)
-433136-0	31/10/2021	Lever Hoist 1600kg (3)	000002	433136-0 / Lever Hoist 1600kg (3)
+433136-0	31/10/2021	Lever Hoist 1600kg (3)	2	433136-0 / Lever Hoist 1600kg (3)
 433137-0	31/10/2021	Lever Hoist 1600kg (4)	510807 / 000007	433137-0 / Lever Hoist 1600kg (4)
 433138-0	31/10/2021	Lever Hoist 800kg (1)	292939 / 000001	433138-0 / Lever Hoist 800kg (1)
 433139-0	31/10/2021	Lever Hoist 800kg (2)	610806 / 000006	433139-0 / Lever Hoist 800kg (2)
-433140-0	31/10/2021	Lever Hoist 800kg (3)	000002	433140-0 / Lever Hoist 800kg (3)
+433140-0	31/10/2021	Lever Hoist 800kg (3)	2	433140-0 / Lever Hoist 800kg (3)
 433141-0	31/10/2021	Lever Hoist 800kg (4)	308934 / 000002	433141-0 / Lever Hoist 800kg (4)
 433142-0	31/10/2021	3M 7403 Polishing Sander (1)	-	433142-0 / 3M 7403 Polishing Sander (1)
 433143-0	31/10/2021	3M 7403 Polishing Sander (2)	-	433143-0 / 3M 7403 Polishing Sander (2)
@@ -8615,7 +8615,7 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 433292-0	31/10/2021	Tool Trolley (1)	-	433292-0 / Tool Trolley (1)
 433293-0	31/10/2021	Tool Trolley (2)	-	433293-0 / Tool Trolley (2)
 433294-0	31/10/2021	Surftest SJ210	200642104	433294-0 / Surftest SJ210
-433295-0	31/10/2021	Water Bath	10020142146002	433295-0 / Water Bath
+433295-0	31/10/2021	Water Bath	1,00201E+13	433295-0 / Water Bath
 433296-0	31/10/2021	Viscometer LV Brookfield	86024956	433296-0 / Viscometer LV Brookfield
 433297-0	31/10/2021	Digital Balance Fujitsu	IMIWH12-2107000252	433297-0 / Digital Balance Fujitsu
 433298-0	31/10/2021	Metrascan Black Elite with Controller	9390260	433298-0 / Metrascan Black Elite with Controller
@@ -8626,7 +8626,7 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 433303-0	31/10/2021	Check Master (1)	1920026	433303-0 / Check Master (1)
 433304-0	31/10/2021	Check Master (2)	2020010	433304-0 / Check Master (2)
 433305-0	31/10/2021	Depth Micro Checker	1800017	433305-0 / Depth Micro Checker
-433306-0	31/10/2021	Dial Indicator Stand	001712	433306-0 / Dial Indicator Stand
+433306-0	31/10/2021	Dial Indicator Stand	1712	433306-0 / Dial Indicator Stand
 433307-0	31/10/2021	Dial Test Indicator	AKLQ72	433307-0 / Dial Test Indicator
 433308-0	31/10/2021	Square Master	2010001	433308-0 / Square Master
 433309-0	31/10/2021	Height Master	2020002	433309-0 / Height Master
@@ -8642,7 +8642,7 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 433319-0	31/10/2021	Digimatic Micrometer 25-50 mm	71045363	433319-0 / Digimatic Micrometer 25-50 mm
 433320-0	31/10/2021	Digimatic Micrometer 50-75 mm	293-232-30	433320-0 / Digimatic Micrometer 50-75 mm
 433321-0	31/10/2021	Digimatic Micrometer 75-100 mm	293-233-30	433321-0 / Digimatic Micrometer 75-100 mm
-433322-0	31/10/2021	Dual Head Gauge Block Comparator	000502005	433322-0 / Dual Head Gauge Block Comparator
+433322-0	31/10/2021	Dual Head Gauge Block Comparator	502005	433322-0 / Dual Head Gauge Block Comparator
 433323-0	31/10/2021	Gauge Block (1)	1903334	433323-0 / Gauge Block (1)
 433324-0	31/10/2021	Gauge Block (2)	2002198	433324-0 / Gauge Block (2)
 433325-0	31/10/2021	Gauge Block (3)	1903989	433325-0 / Gauge Block (3)
@@ -8653,12 +8653,12 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 433330-0	31/10/2021	Gauge Block Accessories	1900210	433330-0 / Gauge Block Accessories
 433331-0	31/10/2021	Gauge Block Accessories Set	1900133	433331-0 / Gauge Block Accessories Set
 433332-0	31/10/2021	Gauge Block Service Kit	516-650E	433332-0 / Gauge Block Service Kit
-433333-0	31/10/2021	Micrometer Stand (1)	027840	433333-0 / Micrometer Stand (1)
+433333-0	31/10/2021	Micrometer Stand (1)	27840	433333-0 / Micrometer Stand (1)
 433334-0	31/10/2021	Micrometer Stand (2)	162922	433334-0 / Micrometer Stand (2)
-433335-0	31/10/2021	Stand Table (1)	000111901	433335-0 / Stand Table (1)
+433335-0	31/10/2021	Stand Table (1)	111901	433335-0 / Stand Table (1)
 433336-0	31/10/2021	Indicator Tester (i-Checker)	103962007	433336-0 / Indicator Tester (i-Checker)
 433337-0	31/10/2021	Mu-Checker	150043	433337-0 / Mu-Checker
-433338-0	31/10/2021	Mu-Checker Probe	001471	433338-0 / Mu-Checker Probe
+433338-0	31/10/2021	Mu-Checker Probe	1471	433338-0 / Mu-Checker Probe
 433339-0	31/10/2021	Optical Flats (1)	158-120	433339-0 / Optical Flats (1)
 433340-0	31/10/2021	Optical Flats (2)	158-118	433340-0 / Optical Flats (2)
 433341-0	31/10/2021	Optical Parallel (1)	157-903	433341-0 / Optical Parallel (1)
@@ -8748,7 +8748,7 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 433426-0	31/10/2021	Rotary Abraser	20202007	433426-0 / Rotary Abraser
 433427-0	31/10/2021	Color Fastness Rubbing Tester	18948	433427-0 / Color Fastness Rubbing Tester
 433428-0	31/10/2021	Haze Meter	33864	433428-0 / Haze Meter
-433429-0	31/10/2021	Durometer	000011906	433429-0 / Durometer
+433429-0	31/10/2021	Durometer	11906	433429-0 / Durometer
 433430-0	31/10/2021	Constant Temperature & Humidity Chamber	DS12052	433430-0 / Constant Temperature & Humidity Chamber
 433431-0	31/10/2021	MultiFunction Constant Temperature & Humidity Chamber	DS65001	433431-0 / MultiFunction Constant Temperature & Humidity Chamber
 433432-0	31/10/2021	Test Tube Aging Tester	18947	433432-0 / Test Tube Aging Tester
@@ -8756,8 +8756,8 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 433434-0	31/10/2021	Differential Scanning Calorimeters	DSC2A01769	433434-0 / Differential Scanning Calorimeters
 433435-0	31/10/2021	Fourier Transform Infrared Spectroscopy 	460	433435-0 / Fourier Transform Infrared Spectroscopy 
 433436-0	31/10/2021	Analycal & Precision Balances	C043320919	433436-0 / Analycal & Precision Balances
-433437-0	31/10/2021	Dehumidifier (1)	013153	433437-0 / Dehumidifier (1)
-433438-0	31/10/2021	Dehumidifier (2)	013156	433438-0 / Dehumidifier (2)
+433437-0	31/10/2021	Dehumidifier (1)	13153	433437-0 / Dehumidifier (1)
+433438-0	31/10/2021	Dehumidifier (2)	13156	433438-0 / Dehumidifier (2)
 433439-0	31/10/2021	Vacuum Oven	IB032778	433439-0 / Vacuum Oven
 433440-0	31/10/2021	Gas Cylinder Safety Cart	-	433440-0 / Gas Cylinder Safety Cart
 433441-0	31/10/2021	Belt Grinder	2004 08001	433441-0 / Belt Grinder
