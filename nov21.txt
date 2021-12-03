@@ -3892,7 +3892,7 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 313779-0	30/11/2021	Heavy Duty Rack (Basic) 2000x900x2000	-	313779-0 / Heavy Duty Rack (Basic) 2000x900x2000
 313780-0	30/11/2021	Heavy Duty Rack (Additional) 2000x900x2000 (1)	-	313780-0 / Heavy Duty Rack (Additional) 2000x900x2000 (1)
 313781-0	30/11/2021	Heavy Duty Rack (Additional) 2000x900x2000 (2)	-	313781-0 / Heavy Duty Rack (Additional) 2000x900x2000 (2)
-313782-0	30/11/2021	Heavy Duty Rack (Additional) 2000x900x2000 (2)	-	313782-0 / Heavy Duty Rack (Additional) 2000x900x2000 (2)
+313782-0	30/11/2021	Heavy Duty Rack (Additional) 2000x900x2000 (3)	-	313782-0 / Heavy Duty Rack (Additional) 2000x900x2000 (3)
 313783-0	30/11/2021	Heavy Duty Rack (Additional) 2000x900x2000 (4)	-	313783-0 / Heavy Duty Rack (Additional) 2000x900x2000 (4)
 313784-0	30/11/2021	Cable Rack (Basic) 2000x600x2000 (1)	-	313784-0 / Cable Rack (Basic) 2000x600x2000 (1)
 313785-0	30/11/2021	Cable Rack (Basic) 2000x600x2000 (2)	-	313785-0 / Cable Rack (Basic) 2000x600x2000 (2)
