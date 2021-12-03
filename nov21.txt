@@ -9795,8 +9795,8 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 433071-0	31/10/2021	Air Impact Wrench (26)	C3441757	433071-0 / Air Impact Wrench (26)
 433072-0	31/10/2021	Air Impact Wrench (27)	C3421677	433072-0 / Air Impact Wrench (27)
 433073-0	31/10/2021	Air Impact Wrench (28)	C3441754	433073-0 / Air Impact Wrench (28)
-433074-0	31/10/2021	Multi Function Digital Scale 15kg	F210113060	433074-0 / Multi Function Digital Scale 15kg
-433075-0	31/10/2021	Platform Scale PS-300C	19853320	433075-0 / Platform Scale PS-300C
+433074-0	31/10/2021	Torque Wrench QSP50N3 10-50nm (1)	-	433074-0 / Torque Wrench QSP50N3 10-50nm (1)
+433075-0	31/10/2021	Safety Guard Panel IV (1)	-	433075-0 / Safety Guard Panel IV (1)
 433076-0	31/10/2021	Angle Grinder GWS 13-125 CL (1)	30000892	433076-0 / Angle Grinder GWS 13-125 CL (1)
 433077-0	31/10/2021	Angle Grinder GWS 13-125 CL (2)	30002234	433077-0 / Angle Grinder GWS 13-125 CL (2)
 433078-0	31/10/2021	Grinding Tools (1)	2104018	433078-0 / Grinding Tools (1)
