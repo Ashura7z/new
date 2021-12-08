@@ -4440,7 +4440,7 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 400444-0		Robot HS220 CTR FLR COMPL 124-2 (214)	-	400444-0 / Robot HS220 CTR FLR COMPL 124-2 (214)
 400445-0		Robot HS220 CTR FLR Respot 141-3 (215)	-	400445-0 / Robot HS220 CTR FLR Respot 141-3 (215)
 400446-0		Robot HS220 CTR FLR Respot 144-2 (216)	-	400446-0 / Robot HS220 CTR FLR Respot 142-2 (216)
-400446-0		Robot HS220 CTR FLR Respot 142-2 (216)	-	400446-0 / Robot HS220 CTR FLR Respot 142-2 (216)
+400446-0		Robot HS220 CTR FLR Respot 141-2 (216)	-	400446-0 / Robot HS220 CTR FLR Respot 141-2 (216)
 400446-0		Robot HS220 CTR FLR Respot 144-2 (216)	-	400446-0 / Robot HS220 CTR FLR Respot 142-2 (216)
 400447-0		Robot HS220 CTR FLR Respot 142-3 (217)	-	400447-0 / Robot HS220 CTR FLR Respot 142-3 (217)
 400448-0		Robot HS220 CTR FLR Respot 142-4 (218)	-	400448-0 / Robot HS220 CTR FLR Respot 142-4 (218)
@@ -4742,8 +4742,8 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 400744-0		Sealer Pump Side RH 201-1 (2)	-	400744-0 / Sealer Pump Side RH 201-1 (2)
 400745-0		Sealer Pump Side RH 203-1 (1)	-	400745-0 / Sealer Pump Side RH 203-1 (1)
 400746-0		Sealer Pump Side RH 203-1 (2)	-	400746-0 / Sealer Pump Side RH 203-1 (2)
-400747-0		Sealer Pump Side RH 204-1 (1)	-	400747-0 / Sealer Pump Side RH 204-1 (1)
-400748-0		Sealer Pump Side RH 204-1 (2)	-	400748-0 / Sealer Pump Side RH 204-1 (2)
+400747-0		Sealer Pump Side LH 201-1 (2)	-	400747-0 / Sealer Pump Side LH 201-1 (2)
+400748-0		Sealer Pump Side RH 201-1 (3)	-	400748-0 / Sealer Pump Side RH 201-1 (3)
 400749-0		Sealer Pump B/B Respot 306-1 (1)	-	400749-0 / Sealer Pump B/B Respot 306-1 (1)
 400750-0		Sealer Pump B/B Respot 306-1 (2)	-	400750-0 / Sealer Pump B/B Respot 306-1 (2)
 400751-0		Sealer Pump B/B Respot 306-1 (3)	-	400751-0 / Sealer Pump B/B Respot 306-1 (3)
@@ -8569,7 +8569,7 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 431844-0		Control Panel HI5a CTR FLR COMPL 125-1 (296)	-	431844-0 / Control Panel HI5a CTR FLR COMPL 125-1 (296)
 431845-0		Control Panel HI5a CTR FLR COMPL 125-2 (297)	-	431845-0 / Control Panel HI5a CTR FLR COMPL 125-2 (297)
 431846-0		Control Panel HI5a CTR FLR Respot 141-3 (298)	-	431846-0 / Control Panel HI5a CTR FLR Respot 141-3 (298)
-431847-0		Control Panel HI5a CTR FLR Respot 142-2 (299)	-	431847-0 / Control Panel HI5a CTR FLR Respot 142-2 (299)
+431847-0		Control Panel HI5a CTR FLR Respot 141-2 (299)	-	431847-0 / Control Panel HI5a CTR FLR Respot 141-2 (299)
 431847-0		Control Panel HI5a CTR FLR Respot 144-2 (299)	-	431847-0 / Control Panel HI5a CTR FLR Respot 142-2 (299)
 431848-0		Control Panel HI5a CTR FLR Respot 142-3 (300)	-	431848-0 / Control Panel HI5a CTR FLR Respot 142-3 (300)
 431849-0		Control Panel HI5a CTR FLR Respot 142-4 (301)	-	431849-0 / Control Panel HI5a CTR FLR Respot 142-4 (301)
@@ -9071,7 +9071,7 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 432345-0		Welding Gun C CTR FLR COMPL 125-2 (198)	-	432345-0 / Welding Gun C CTR FLR COMPL 125-2 (198)
 432346-0		Welding Gun X CTR FLR Respot 141-3 (199)	-	432346-0 / Welding Gun X CTR FLR Respot 141-3 (199)
 432347-0		Welding Gun X CTR FLR Respot 144-2 (200)	-	432347-0 / Welding Gun X CTR FLR Respot 142-2 (200)
-432347-0		Welding Gun X CTR FLR Respot 142-2 (200)	-	432347-0 / Welding Gun X CTR FLR Respot 142-2 (200)
+432347-0		Welding Gun X CTR FLR Respot 141-2 (200)	-	432347-0 / Welding Gun X CTR FLR Respot 141-2 (200)
 432348-0		Welding Gun X CTR FLR Respot 142-3 (201)	-	432348-0 / Welding Gun X CTR FLR Respot 142-3 (201)
 432349-0		Welding Gun X CTR FLR Respot 142-4 (202)	-	432349-0 / Welding Gun X CTR FLR Respot 142-4 (202)
 432350-0		Welding Gun X CTR FLR Respot 143-1 (203)	-	432350-0 / Welding Gun X CTR FLR Respot 143-1 (203)
@@ -9348,7 +9348,7 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 432621-0		Auto Tip Dresser 16D CTR FLR COMPL 125-2 (180)	-	432621-0 / Auto Tip Dresser 16D CTR FLR COMPL 125-2 (180)
 432622-0		Auto Tip Dresser 16D CTR FLR Respot 141-3 (181)	-	432622-0 / Auto Tip Dresser 16D CTR FLR Respot 141-3 (181)
 432623-0		Auto Tip Dresser 16D CTR FLR Respot 144-2 (182)	-	432623-0 / Auto Tip Dresser 16D CTR FLR Respot 142-2 (182)
-432623-0		Auto Tip Dresser 16D CTR FLR Respot 142-2 (182)	-	432623-0 / Auto Tip Dresser 16D CTR FLR Respot 142-2 (182)
+432623-0		Auto Tip Dresser 16D CTR FLR Respot 141-2 (182)	-	432623-0 / Auto Tip Dresser 16D CTR FLR Respot 141-2 (182)
 432624-0		Auto Tip Dresser 16D CTR FLR Respot 142-3 (183)	-	432624-0 / Auto Tip Dresser 16D CTR FLR Respot 142-3 (183)
 432625-0		Auto Tip Dresser 16D CTR FLR Respot 142-4 (184)	-	432625-0 / Auto Tip Dresser 16D CTR FLR Respot 142-4 (184)
 432626-0		Auto Tip Dresser 16D CTR FLR Respot 143-1 (185)	-	432626-0 / Auto Tip Dresser 16D CTR FLR Respot 143-1 (185)
@@ -9647,7 +9647,7 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 432919-0		Timer Contacter CTR FLR COMPL 125-2 (202)	-	432919-0 / Timer Contacter CTR FLR COMPL 125-2 (202)
 432920-0		Timer Contacter CTR FLR Respot 141-3 (203)	-	432920-0 / Timer Contacter CTR FLR Respot 141-3 (203)
 432921-0		Timer Contacter CTR FLR Respot 144-2 (204)	-	432921-0 / Timer Contacter CTR FLR Respot 142-2 (204)
-432921-0		Timer Contacter CTR FLR Respot 142-2 (204)	-	432921-0 / Timer Contacter CTR FLR Respot 142-2 (204)
+432921-0		Timer Contacter CTR FLR Respot 141-2 (204)	-	432921-0 / Timer Contacter CTR FLR Respot 141-2 (204)
 432922-0		Timer Contacter CTR FLR Respot 142-3 (205)	-	432922-0 / Timer Contacter CTR FLR Respot 142-3 (205)
 432923-0		Timer Contacter CTR FLR Respot 142-4 (206)	-	432923-0 / Timer Contacter CTR FLR Respot 142-4 (206)
 432924-0		Timer Contacter CTR FLR Respot 143-1 (207)	-	432924-0 / Timer Contacter CTR FLR Respot 143-1 (207)
@@ -10298,7 +10298,6 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 433568-0		Jig FRT FLR 161-1	-	433568-0 / Jig FRT FLR 161-1
 433569-0		Jig FRT FLR 162-1	-	433569-0 / Jig FRT FLR 162-1
 433570-0		Jig FRT FLR 163-1	-	433570-0 / Jig FRT FLR 163-1
-433571-0		Jig FRT FLR 163-2	-	433571-0 / Jig FRT FLR 163-2
 433572-0		Jig FRT FLR 164-1	-	433572-0 / Jig FRT FLR 164-1
 433573-0		Jig FRT FLR 172-1 (1)	-	433573-0 / Jig FRT FLR 172-1 (1)
 433574-0		Jig FRT FLR 172-1 (2)	-	433574-0 / Jig FRT FLR 172-1 (2)
@@ -10337,7 +10336,7 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 433607-0		Jig CTR FLR Compl 125-1	-	433607-0 / Jig CTR FLR Compl 125-1
 433608-0		Jig CTR FLR Respot 141-3	-	433608-0 / Jig CTR FLR Respot 141-3
 433609-0		Jig CTR FLR Respot 144-2	-	433609-0 / Jig CTR FLR Respot 142-2
-433609-0		Jig CTR FLR Respot 142-2	-	433609-0 / Jig CTR FLR Respot 142-2
+433609-0		Jig CTR FLR Respot 141-2	-	433609-0 / Jig CTR FLR Respot 141-2
 433610-0		Jig CTR FLR Respot 143-1	-	433610-0 / Jig CTR FLR Respot 143-1
 433611-0		Jig CTR FLR Respot 144-1	-	433611-0 / Jig CTR FLR Respot 144-1
 433612-0		Jig CTR FLR Respot 145-1	-	433612-0 / Jig CTR FLR Respot 145-1
