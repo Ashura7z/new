@@ -3514,13 +3514,13 @@ Asset No	Capitalized On	Asset Description	S/N	Barcode Name
 313448-0	31/10/2021	GAS Cabinets (6)	-	313448-0 / GAS Cabinets (6)
 313449-0	31/10/2021	GAS Cabinets (7)	-	313449-0 / GAS Cabinets (7)
 313450-0	31/10/2021	Laboratory Refrigerator	IB 1000 71	313450-0 / Laboratory Refrigerator
-313451-0	31/10/2021	Laboratory Appliance Storages	-	313451-0 / Laboratory Appliance Storages
+313451-0	31/10/2021	TCS-6SD (3)	-	313451-0 / TCS-6SD (3)
 313452-0	31/10/2021	Desiccator (1)	ALD-200SAJMD09A12008-04	313452-0 / Desiccator (1)
 313453-0	31/10/2021	Desiccator (2)	ALD-200SAJMD09A12008-03	313453-0 / Desiccator (2)
 313454-0	31/10/2021	Air Conditioner (1)	B5WYP3GN2000I7A	313454-0 / Air Conditioner (1)
 313455-0	31/10/2021	Air Conditioner (2)	B5WYP3GRI0000IA	313455-0 / Air Conditioner (2)
-313456-0	31/10/2021	Fume Hood Type A	KSL 2002 TF	313456-0 / Fume Hood Type A
-313457-0	31/10/2021	Fume Hood Type B	KSL 2002 TF	313457-0 / Fume Hood Type B
+313456-0	31/10/2021	Belt Sander	-	313456-0 / Belt Sander
+313457-0	31/10/2021	Laboratory Appliance Storages	-	313457-0 / Laboratory Appliance Storages
 313458-0	30/11/2021	HOD Workstation Set + Chair 	-	313458-0 / HOD Workstation Set + Chair 
 313459-0	30/11/2021	Staff Working Table 6 Pax + Chair	-	313459-0 / Staff Working Table 6 Pax + Chair
 313460-0	30/11/2021	Staff Working Table 6 Pax + Chair	-	313460-0 / Staff Working Table 6 Pax + Chair
