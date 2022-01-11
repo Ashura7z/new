@@ -3955,7 +3955,7 @@
 313891-0	31/12/2021	Dome Mirror (11)	-	313891-0 / Dome Mirror (11)
 313892-0	31/12/2021	Dome Mirror (12)	-	313892-0 / Dome Mirror (12)
 313893-0	31/12/2021	Cover Exhaust Custom 	-	313893-0 / Cover Exhaust Custom 
-313894-0	31/12/2021	Canon Power Shot Digital Camera	2,48064E+11	313894-0 / Canon Power Shot Digital Camera
+313894-0	31/12/2021	Canon Power Shot Digital Camera	248064000070	313894-0 / Canon Power Shot Digital Camera
 313895-0	31/12/2021	Sofa Ex. Cellini Type Dansk (1)	-	313895-0 / Sofa Ex. Cellini Type Dansk (1)
 313896-0	31/12/2021	Sofa Ex. Cellini Type Dansk (2)	-	313896-0 / Sofa Ex. Cellini Type Dansk (2)
 313897-0	31/12/2021	Sofa Ex. Cellini Type Stoker (1)	-	313897-0 / Sofa Ex. Cellini Type Stoker (1)
@@ -8980,8 +8980,8 @@
 433827-0	30/11/2021	Electric Air Compressor 	2020 10 1069	433827-0 / Electric Air Compressor 
 433828-0	30/11/2021	Voice Recorder Sony TX650 (1)	2064155	433828-0 / Voice Recorder Sony TX650 (1)
 433829-0	30/11/2021	Voice Recorder Sony TX650 (2)	2064474	433829-0 / Voice Recorder Sony TX650 (2)
-433830-0	30/11/2021	Car Power Inverter 500W (1)	3,02208E+14	433830-0 / Car Power Inverter 500W (1)
-433831-0	30/11/2021	Car Power Inverter 500W (2)	3,02208E+14	433831-0 / Car Power Inverter 500W (2)
+433830-0	30/11/2021	Car Power Inverter 500W (1)	302208194100008	433830-0 / Car Power Inverter 500W (1)
+433831-0	30/11/2021	Car Power Inverter 500W (2)	302208173000036	433831-0 / Car Power Inverter 500W (2)
 433832-0	30/11/2021	Hydraulic Trolley Jack 3.5 Ton (1)	-	433832-0 / Hydraulic Trolley Jack 3.5 Ton (1)
 433833-0	30/11/2021	Hydraulic Trolley Jack 3.5 Ton (2)	-	433833-0 / Hydraulic Trolley Jack 3.5 Ton (2)
 433834-0	30/11/2021	Transmission Jack 500kg Standing Type 	-	433834-0 / Transmission Jack 500kg Standing Type 
