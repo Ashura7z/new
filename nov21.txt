@@ -4577,7 +4577,7 @@
 400824-0	30/11/2021	Block Machining Center NDF10-110B	C1558	400824-0 / Block Machining Center NDF10-110B
 400825-0	30/11/2021	Block Machining Center NDF10-140	C1559	400825-0 / Block Machining Center NDF10-140
 400826-0	30/11/2021	Floor Standing Auto Abrasive Cutting Machine	300A	400826-0 / Floor Standing Auto Abrasive Cutting Machine
-400827-0	31/12/2021	Coordinate Measuring Machine Caleno 16/25 Double Column Set	213410 & 213409	400827-0 / Coordinate Measuring Machine Caleno 16/25 Double Column Set
+400827-0	31/12/2021	Coordinate Measuring Machine Caleno 16/25	213410 & 213409	400827-0 / Coordinate Measuring Machine Caleno 16/25
 410000-0	30/11/2021	SIDE OTR LH DIE	OP10	410000-0 / SIDE OTR LH DIE
 410001-0	30/11/2021	SIDE OTR LH DIE	OP20	410001-0 / SIDE OTR LH DIE
 410002-0	30/11/2021	SIDE OTR LH DIE	OP30	410002-0 / SIDE OTR LH DIE
