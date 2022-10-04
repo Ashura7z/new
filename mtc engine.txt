@@ -1,0 +1,88 @@
+Num	Asset Number	Asset Description	Serial Number	Model	Detail Location	User
+1	433713	Fluke External Vibration Sensor (2)	SN P115572	805-ES / FLUKE	MTC_Engine_Storage	Suryadi
+2	433722	Pipe Wrench Stanley 48" (6)	-	Stanley	MTC_Engine_Storage	Suryadi
+3	433733	Portable Ladder Aluminium (4)	-	LIVEO	MTC_Engine_Storage	Suryadi
+4	314056	Round Sling 10 Feet (9)	-	-	MTC_Engine_Storage	Suryadi
+5	314057	Round Sling 10 Feet (10)	-	-	MTC_Engine_Storage	Suryadi
+6	314066	Round Sling 8 Feet (9)	-	-	MTC_Engine_Storage	Suryadi
+7	314067	Round Sling 8 Feet (10)	-	-	MTC_Engine_Storage	Suryadi
+8	314076	Round Sling 6 Feet (9)	-	-	MTC_Engine_Storage	Suryadi
+9	314077	Round Sling 6 Feet (10)	-	-	MTC_Engine_Storage	Suryadi
+10	314081	Sony Cybershot DSC-W830 (4)	-	Sony	MTC_Engine_Storage	Suryadi
+11	314087	Rack Pipe Storage 2m x 1m x 2m (3)	-	-	MTC_Engine_Storage	Suryadi
+12	314088	Rack Pipe Storage 2m x 1m x 2m (4)	-	-	MTC_Engine_Storage	Suryadi
+13	314097	Oil Grease Storage 1.5 Ton/150L (9)	-	-	MTC_Engine_Storage	Suryadi
+14	314098	Oil Grease Storage 1.5 Ton/150L (10)	-	-	MTC_Engine_Storage	Suryadi
+15	314099	Oil Grease Storage 1.5 Ton/150L (11)	-	-	MTC_Engine_Storage	Suryadi
+16	314100	Oil Grease Storage 1.5 Ton/150L (12)	-	-	MTC_Engine_Storage	Suryadi
+17	314114	Small Glass Cabinet (14)	-	-	MTC_Engine_Storage	Suryadi
+18	314115	Small Glass Cabinet (15)	-	-	MTC_Engine_Storage	Suryadi
+19	314116	Small Glass Cabinet (16)	-	-	MTC_Engine_Storage	Suryadi
+20	314123	Trash Bin Eko 30L (7)	-	-	MTC_Engine_Storage	Suryadi
+21	314124	Trash Bin Eko 30L (8)	-	-	MTC_Engine_Storage	Suryadi
+22	314133	Standing Table PC (9)	-	-	MTC_Engine_Storage	Suryadi
+23	314141	Stand With Board Ex. Sakana (8)	-	-	MTC_Engine_Storage	Suryadi
+24	314142	Stand With Board Ex. Sakana (9)	-	-	MTC_Engine_Storage	Suryadi
+25	314143	Stand With Board Ex. Sakana (10)	-	-	MTC_Engine_Storage	Suryadi
+26	314159	Cabinet Document Without Door (16)	-	-	MTC_Engine_Storage	Suryadi
+27	314160	Cabinet Document Without Door (17)	-	-	MTC_Engine_Storage	Suryadi
+28	314161	Cabinet Document Without Door (18)	-	-	MTC_Engine_Storage	Suryadi
+29	314166	Hanging Rack Tools (5)	-	-	MTC_Engine_Storage	Suryadi
+30	314173	Oil Grease Storage 1.5 Ton (7)	-	-	MTC_Engine_Storage	Suryadi
+31	314174	Oil Grease Storage 1.5 Ton (8)	-	-	MTC_Engine_Storage	Suryadi
+32	314175	Oil Grease Storage 1.5 Ton (9)	-	-	MTC_Engine_Storage	Suryadi
+33	314176	Oil Grease Storage 1.5 Ton (10)	-	-	MTC_Engine_Storage	Suryadi
+34	314216	Samsung A32 Smartphone (40)	352160552636637	Samsung	MTC_Engine_Storage	Suryadi
+35	314217	Samsung A32 Smartphone (41)	352160552637361	Samsung	MTC_Engine_Storage	Suryadi
+36	314218	Samsung A32 Smartphone (42)	352160552680940	Samsung	MTC_Engine_Storage	Suryadi
+37	314219	Samsung A32 Smartphone (43)	352160552634236	Samsung	MTC_Engine_Storage	Suryadi
+38	314220	Samsung A32 Smartphone (44)	352160552638518	Samsung	MTC_Engine_Storage	Suryadi
+39	314221	Samsung A32 Smartphone (45)	352160552633949	Samsung	MTC_Engine_Storage	Suryadi
+40	314222	Samsung A32 Smartphone (46)	352160552642148	Samsung	MTC_Engine_Storage	Suryadi
+41	314223	Samsung A32 Smartphone (47)	352160552638120	Samsung	MTC_Engine_Storage	Suryadi
+42	314224	Samsung A32 Smartphone (48)	352160552637676	Samsung	MTC_Engine_Storage	Suryadi
+43	314225	Samsung A32 Smartphone (49)	352160552637262	Samsung	MTC_Engine_Storage	Suryadi
+44	314226	Samsung A32 Smartphone (50)	352160552638468	Samsung	MTC_Engine_Storage	Suryadi
+45	314227	Samsung A32 Smartphone (51)	352160552634384	Samsung	MTC_Engine_Storage	Suryadi
+46	314228	Samsung A32 Smartphone (52)	352160552630986	Samsung	MTC_Engine_Storage	Suryadi
+47	314229	Samsung A32 Smartphone (53)	352160552637155	Samsung	MTC_Engine_Storage	Suryadi
+48	314230	Samsung A32 Smartphone (54)	352160552637486	Samsung	MTC_Engine_Storage	Suryadi
+49	314231	Samsung A32 Smartphone (55)	352160552631919	Samsung	MTC_Engine_Storage	Suryadi
+50	314232	Samsung A32 Smartphone (56)	352160552642239	Samsung	MTC_Engine_Storage	Suryadi
+51	314233	Samsung A32 Smartphone (57)	352160552642007	Samsung	MTC_Engine_Storage	Suryadi
+52	314234	Samsung A32 Smartphone (58)	352160552631927	Samsung	MTC_Engine_Storage	Suryadi
+53	314235	Samsung A32 Smartphone (59)	352160552638856	Samsung	MTC_Engine_Storage	Suryadi
+54	314236	Samsung A32 Smartphone (60)	352160552642551	Samsung	MTC_Engine_Storage	Suryadi
+55	314237	Samsung A32 Smartphone (61)	352160552635183	Samsung	MTC_Engine_Storage	Suryadi
+56	314238	Samsung A32 Smartphone (62)	352160552636132	Samsung	MTC_Engine_Storage	Suryadi
+57	314239	Samsung A32 Smartphone (63)	352160552636827	Samsung	MTC_Engine_Storage	Suryadi
+58	314240	Samsung A32 Smartphone (64)	352160552639938	Samsung	MTC_Engine_Storage	Suryadi
+59	314241	Samsung A32 Smartphone (65)	352160552618890	Samsung	MTC_Engine_Storage	Suryadi
+60	314274	Samsung A32 Smartphone (98)	352160552631257	Samsung	MTC_Engine_Storage	Suryadi
+67	314304	Handy Talky CP1660UHF (29)	1335VN0636	Motorola	MTC_Engine_Storage	Suryadi
+68	314305	Handy Talky CP1660UHF (30)	1335VN0586	Motorola	MTC_Engine_Storage	Suryadi
+70	314307	Handy Talky CP1660UHF (32)	1335VN0571	Motorola	MTC_Engine_Storage	Suryadi
+71	314308	Handy Talky CP1660UHF (33)	1335VN0555	Motorola	MTC_Engine_Storage	Suryadi
+72	314309	Handy Talky CP1660UHF (34)	1335VN0397	Motorola	MTC_Engine_Storage	Suryadi
+73	314329	Handy Talky CP1660UHF (54)	1335VP2516	Motorola	MTC_Engine_Storage	Suryadi
+73	422043	Dell Optiplex 3080SFF MT	5KTYQD3	Dell	MTC_Engine Office	Danang Wisnu
+74	422069	Dell Optiplex 3080SFF MT	9PTYQD3	Dell	MTC_Engine Office	Suryadi
+75	422074	Dell Optiplex 3080SFF MT	HPTYQD3	Dell	MTC_Engine Office	Suryadi
+76	422077	Dell Optiplex 3080SFF MT	3QTYQD3	Dell	MTC_Engine Office	Suryadi
+77	422090	Dell Optiplex 3080SFF MT	1PR54F3	Dell	MTC_Engine Office	Suryadi
+78	434313	Milling Machine First LC20VGA 	91003959	LC-20VGA / FIRST	MTC_Engine_Storage	Suryadi
+79	434314	Lathe Machine Danver LG 560 	18081	LG560X1000 / DENVER	MTC_Engine_Storage	Suryadi
+80	434315	Mobile Portable AC 	GO700002	SS-40EG-8BII / SUIDEN	MTC_Engine_Storage	Suryadi
+81	434317	Mobile Electric Scissor Lifter 	-	-	MTC_Engine_Storage	Suryadi
+82	434319	Hydraulic Press Machine 20T 	-	-	MTC_Engine_Storage	Suryadi
+83	434323	MSA Altair 4XR (4)	216960	4XR / ALTAIR	MTC_Engine_Storage	Suryadi
+84	434337	FLK-179 Digital Multimeter (5)	51140430	179 / FLUKE	MTC_Engine_Storage	Suryadi
+85	434343	Combination Wrench Metric Set 30-55mm (5)	-	-	MTC_Engine_Storage	Suryadi
+86	434353	Hand Tap Set M3-M18 	-	-	MTC_Engine_Storage	Suryadi
+87	434354	CJC HDU B 27/54 (P-19-4) E1M 	890049268-001	HDU B 27/54 / CJC	MTC_Engine_Storage	Suryadi
+88	434358	Siemens Training Kit Set (2)	-	-	MTC_Engine_Storage	Suryadi
+105	314732	Samsung A32 (5)	-	Samsung	MTC_Engine_Storage	Suryadi
+106	314733	Samsung A32 (6)	-	Samsung	MTC_Engine_Storage	Kim Young Gyun
+107	314743	Samsung A32 (16)	-	Samsung	MTC_Engine_Storage	Suryadi
+129	316052	Handy Talky CP1660 UHF	1335VQ0305	Motorola	MTC Engine (Storage)	Suryadi
+130	316053	Handy Talky CP1660 UHF	1335VQ0323	Motorola	MTC Engine (Storage)	Suryadi
